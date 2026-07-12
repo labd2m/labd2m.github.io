@@ -1,0 +1,57 @@
+{
+    "publications": [
+        {
+            "citationKey": "Vegi2026LLMElixir",
+            "type": "inproceedings",
+            "title": "Towards LLM-Based Detection of Elixir Code Smells: An Empirical Evaluation",
+            "authors": [
+                "Lucas Vegi",
+                "Mateus Silva",
+                "Marco Túlio Valente"
+            ],
+            "year": 2026,
+            "booktitle": "Proceedings of the 2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--10",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents an empirical evaluation of large language models for detecting code smells in Elixir systems.",
+
+            "links": {
+                "pdf": "papers/se4fp2026.pdf",
+                "doi": "https://doi.org/10.xxxx/xxxx",
+                "github": "https://github.com/labd2m/ExSmellBench",
+                "dataset": "https://github.com/labd2m/ExSmell-Gold"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2025EMSE",
+            "type": "article",
+            "title": "Understanding Code Smells in Elixir Functional Language",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2025,
+            "journal": "Empirical Software Engineering",
+            "volume": "30",
+            "number": "2",
+            "pages": "1--28",
+            "publisher": "Springer",
+            "doi": "10.xxxx/xxxx",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper introduces the first catalog of Elixir code smells and evaluates their relevance through a survey with professional developers.",
+            "links": {
+                "pdf": "",
+                "doi": "https://doi.org/10.xxxx/xxxx",
+                "github": "",
+                "dataset": ""
+            }
+        }
+    ]
+}

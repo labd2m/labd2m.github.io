@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Publicações | LABD2M / DPI / UFV</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- ==========================================
+         HEADER
+    =========================================== -->
+
+    <header>
+
+        <nav>
+
+            <div class="logo">
+                <img src="img/logo-roxa.png" alt="LABD2M">
+            </div>
+
+            <button class="menu-toggle" aria-label="Abrir menu">
+                ☰
+            </button>
+
+            <ul class="nav-menu">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="#">Membros</a></li>
+                <li><a href="publicacoes.html">Publicações</a></li>
+                <li><a href="#">Projetos</a></li>
+                <li><a href="#">Ferramentas e Recursos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <!-- ==========================================
+         TÍTULO DA PÁGINA
+    =========================================== -->
+
+    <section class="research-header">
+
+        <span class="section-subtitle">
+            PRODUÇÃO CIENTÍFICA
+        </span>
+
+        <h2 class="section-title">
+            Publicações
+        </h2>
+
+        <div class="section-divider"></div>
+
+        <p class="page-description">
+            Conheça os artigos publicados pelos pesquisadores do LABD2M em
+            periódicos e conferências nacionais e internacionais.
+        </p>
+
+    </section>
+
+    <!-- ==========================================
+         PUBLICAÇÕES
+    =========================================== -->
+
+    <section class="publication-section">
+
+        <div id="publication-list">
+
+            <!-- preenchido automaticamente pelo JavaScript -->
+
+        </div>
+
+    </section>
+
+    <!-- ==========================================
+         FOOTER
+    =========================================== -->
+
+    <footer>
+
+        © 2026 LABD2M - Universidade Federal de Viçosa (UFV)
+
+    </footer>
+
+    <!-- Modal (APENAS UMA VEZ) -->
+    <div id="bibtex-modal" class="modal">
+
+        <div class="modal-content">
+
+            <span id="close-modal">&times;</span>
+
+            <h3>BibTeX</h3>
+
+            <textarea id="bibtex-text" readonly></textarea>
+
+            <button id="copy-bibtex">
+                Copiar
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="js/main.js"></script>
+    <script src="js/publications.js"></script>
+
+</body>
+
+</html>
