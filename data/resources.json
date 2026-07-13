@@ -1,0 +1,156 @@
+{
+    "artifacts": [
+
+        {
+            "category": "tools",
+            "title": "ExSmellBench",
+            "description": "Framework para avaliação automática de LLMs na detecção de Code Smells em Elixir.",
+            "image": "img/resources/exsmellbench.png",
+
+            "links": {
+                "github": "https://github.com/labd2m/ExSmellBench",
+                "website": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "datasets",
+            "title": "ExSmell-Gold",
+            "description": "Benchmark contendo 3.500 exemplos anotados para avaliação de detectores de Code Smells em Elixir.",
+            "image": "img/resources/exsmell-gold.png",
+
+            "links": {
+                "github": "https://github.com/labd2m/ExSmell-Gold",
+                "website": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "datasets",
+            "title": "ExSmell-Train",
+            "description": "Corpus com 350 exemplos de smells em Elixir utilizado para estratégias de Retrieval-Augmented Generation (RAG).",
+            "image": "img/resources/exsmell-train.png",
+
+            "links": {
+                "github": "https://github.com/labd2m/ExSmell-Train",
+                "website": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "resources",
+            "title": "Catálogo de Code Smells para Elixir",
+            "description": "Catálogo contendo 35 Code Smells identificados na linguagem Elixir.",
+            "image": "img/resources/smells-catalog-elixir.png",
+
+            "links": {
+                "github": "https://github.com/lucasvegi/Elixir-Code-Smells",
+                "website": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "resources",
+            "title": "Catálogo de Refatorações para Elixir",
+            "description": "Catálogo contendo 82 estratágias de refatoração para códigos implementados na linguagem Elixir.",
+            "image": "img/resources/refactoring-catalog-elixir.png",
+
+            "links": {
+                "github": "https://github.com/lucasvegi/Elixir-Refactorings",
+                "website": "",
+                "paper": ""
+            }
+        }, 
+
+        {
+            "category": "tools",
+            "title": "RefactorEx",
+            "description": "Plug-in do VS Code para aplicação semi-automática de estratégias de refatoração em projetos Elixir. Implementa algumas refatorações catalogadas na literatura para melhorar qualidade do código.",
+            "image": "img/resources/refactorex.png",
+
+            "authors": [
+                "Gabriel Pereira",
+                "Lucas Vegi"
+            ],
+
+            "tags": [
+                "Elixir",
+                "Refatoração",
+                "Code Quality",
+                "Static Analysis"
+            ],
+
+            "links": {
+                "github": "https://github.com/gp-pereira/refactorex",
+                "website": "",
+                "documentation": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "applications",
+            "title": "Pokemon Go Clone",
+            "shortName": "Pokemon Go Clone",
+            "description": "Clone open source do Pokémon GO desenvolvido para fins de pesquisa e ensino. O projeto implementa mecânicas de jogos baseados em geolocalização, realidade aumentada e coleta de criaturas, permitindo experimentação sem dependência dos servidores oficiais.",
+            "image": "img/resources/pokemon-go-clone.png",
+            "status": "Concluído",
+            "license": "MIT",
+            "language": "Java",
+            "authors": [
+                "LABD2M"
+            ],
+
+            "tags": [
+                "Android",
+                "Geolocalização",
+                "Realidade Aumentada",
+                "Mobile",
+                "Jogos",
+                "Pokémon GO"
+            ],
+
+            "links": {
+                "github": "https://github.com/labd2m/PokemonGoCloneOffline",
+                "website": "",
+                "documentation": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "applications",
+            "title": "Presente UFV",
+            "shortName": "Presente UFV",
+            "description": "Aplicativo móvel desenvolvido para apoiar o registro de presença em atividades acadêmicas da Universidade Federal de Viçosa por meio de geolocalização, Bluetooh, QR Code e outros meios, oferecendo uma alternativa prática às listas de presença em papel.",
+            "image": "img/resources/presente-ufv.png",
+            "status": "Concluído",
+            "license": "MIT",
+            "language": "Kotlin",
+            "authors": [
+                "LABD2M"
+            ],
+
+            "tags": [
+                "Android",
+                "Java",
+                "UFV",
+                "Geolocalização",
+                "Educação",
+                "Aplicativo Móvel"
+            ],
+
+            "links": {
+                "github": "https://github.com/labd2m/PresenteUFV",
+                "website": "",
+                "documentation": "",
+                "paper": ""
+            }
+        }
+
+    ]
+}
