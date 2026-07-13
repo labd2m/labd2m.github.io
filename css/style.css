@@ -661,3 +661,386 @@ footer {
     box-sizing: border-box;
 
 }
+
+
+/* ==========================================================
+   SEÇÕES
+========================================================== */
+
+.member-section {
+
+    max-width: 1200px;
+
+    margin: 70px auto;
+
+    padding: 0 20px;
+
+}
+
+.member-section h2 {
+
+    margin-bottom: 30px;
+
+    color: #6F2DBD;
+
+    font-size: 1.6rem;
+
+    font-weight: 700;
+
+}
+
+
+/* ==========================================================
+   CARD DO COORDENADOR
+========================================================== */
+
+.coordinator-card {
+
+    display: flex;
+
+    gap: 35px;
+
+    align-items: center;
+
+    background: #fff;
+
+    padding: 35px;
+
+    border-radius: 18px;
+
+    border: 1px solid #ececec;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,.06);
+
+}
+
+.coordinator-card img {
+
+    width: 220px;
+
+    border-radius: 15px;
+
+}
+
+.coordinator-card h3 {
+
+    margin: 0;
+
+    font-size: 2rem;
+
+    color: #222;
+
+}
+
+.member-role {
+
+    display: inline-block;
+
+    margin: 12px 0 18px;
+
+    color: #6F2DBD;
+
+    font-weight: 600;
+
+}
+
+.coordinator-card p {
+
+    color: #666;
+
+    line-height: 1.8;
+
+}
+
+
+/* ==========================================================
+   LINKS
+========================================================== */
+
+.member-links {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin-top: 25px;
+
+}
+
+.member-links a {
+
+    padding: 10px 18px;
+
+    border-radius: 8px;
+
+    background: #6F2DBD;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: .9rem;
+
+    transition: .25s;
+
+}
+
+.member-links a:hover {
+
+    background: #5A189A;
+
+}
+
+
+/* ==========================================================
+   GRID DOS MEMBROS
+========================================================== */
+
+.members-grid {
+
+    display: grid;
+
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+
+    gap: 25px;
+
+}
+
+
+/* ==========================================================
+   CARD DO MEMBRO
+========================================================== */
+
+.member-card {
+
+    background: white;
+
+    border: 1px solid #ececec;
+
+    border-radius: 15px;
+
+    padding: 25px;
+
+    text-align: center;
+
+    transition: .3s;
+
+}
+
+.member-card:hover {
+
+    transform: translateY(-6px);
+
+    box-shadow: 0 15px 35px rgba(0,0,0,.08);
+
+}
+
+.member-card img {
+
+    width: 120px;
+
+    height: 120px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    margin-bottom: 20px;
+
+}
+
+.member-card h3 {
+
+    margin: 0;
+
+    font-size: 1.2rem;
+
+}
+
+.member-card span {
+
+    display: block;
+
+    margin: 8px 0 18px;
+
+    color: #6F2DBD;
+
+    font-weight: 600;
+
+}
+
+.member-card .member-links {
+
+    justify-content: center;
+
+    margin-top: 15px;
+
+}
+
+.member-card .member-links a {
+
+    padding: 8px 14px;
+
+    font-size: .85rem;
+
+}
+
+
+/* ==========================================================
+   BOX DE EGRESSOS
+========================================================== */
+
+.egressos-box {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 30px;
+
+    background: #faf8ff;
+
+    border: 1px solid #ece4ff;
+
+    border-radius: 18px;
+
+    padding: 35px;
+
+}
+
+.egressos-box p {
+
+    color: #666;
+
+}
+
+
+/* ==========================================================
+   CTA
+========================================================== */
+
+.join-lab {
+
+    max-width: 1200px;
+
+    margin: 80px auto;
+
+    padding: 40px;
+
+    border-radius: 18px;
+
+    background: linear-gradient(135deg,#6F2DBD,#51228d);
+
+    color: white;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 40px;
+
+}
+
+.join-lab h2 {
+
+    margin: 0 0 15px;
+
+    font-size: 2rem;
+
+}
+
+.join-lab p {
+
+    margin: 0;
+
+    line-height: 1.8;
+
+    max-width: 700px;
+
+}
+
+
+/* ==========================================================
+   BOTÃO
+========================================================== */
+
+.primary-button {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding: 14px 28px;
+
+    background: white;
+
+    color: #6F2DBD;
+
+    border-radius: 10px;
+
+    font-weight: 600;
+
+    text-decoration: none;
+
+    transition: .25s;
+
+}
+
+.primary-button:hover {
+
+    transform: translateY(-3px);
+
+}
+
+
+/* ==========================================================
+   RESPONSIVO
+========================================================== */
+
+@media (max-width:900px){
+
+    .coordinator-card{
+
+        flex-direction:column;
+
+        text-align:center;
+
+    }
+
+    .coordinator-card img{
+
+        width:180px;
+
+    }
+
+    .member-links{
+
+        justify-content:center;
+
+    }
+
+    .egressos-box{
+
+        flex-direction:column;
+
+        text-align:center;
+
+    }
+
+    .join-lab{
+
+        flex-direction:column;
+
+        text-align:center;
+
+    }
+
+}
