@@ -1,37 +1,117 @@
 {
     "publications": [
         {
-            "citationKey": "Vegi2026LLMElixir",
+            "citationKey": "Vegi2025-RefactorEx",
             "type": "inproceedings",
-            "title": "Towards LLM-Based Detection of Elixir Code Smells: An Empirical Evaluation",
+            "title": "Building Refactoring Tools: Insights from RefactorEx",
             "authors": [
+                "Gabriel Philippe Pereira",
                 "Lucas Vegi",
-                "Mateus Silva",
-                "Marco Túlio Valente"
+                "Vladimir Di Iorio"
             ],
-            "year": 2026,
-            "booktitle": "Proceedings of the 2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
-            "conference": "SE4FP 2026",
+            "year": 2025,
+            "booktitle": "1st Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2025",
             "publisher": "Sociedade Brasileira de Computação (SBC)",
-            "address": "São Paulo, Brazil",
-            "pages": "1--10",
-            "doi": "",
+            "address": "Recife, Brazil",
+            "pages": "1--6",
+            "doi": "10.5753/se4fp.2025.13088",
             "isbn": "",
             "url": "",
-            "abstract": "This paper presents an empirical evaluation of large language models for detecting code smells in Elixir systems.",
+            "abstract": "This paper presents insights gained from developing RefactorEx, a refactoring tool for the Elixir functional language.",
 
             "links": {
-                "pdf": "papers/se4fp2026.pdf",
-                "doi": "https://doi.org/10.xxxx/xxxx",
-                "github": "https://github.com/labd2m/ExSmellBench",
-                "dataset": "https://github.com/labd2m/ExSmell-Gold"
+                "pdf": "papers/se4fp25-refactorex.pdf",
+                "doi": "https://doi.org/10.5753/se4fp.2025.13088",
+                "github": "https://github.com/gp-pereira/refactorex",
+                "dataset": ""
             }
         },
 
         {
-            "citationKey": "Vegi2025EMSE",
+            "citationKey": "Vegi2023-ICSME-refactorings-elixir",
+            "type": "inproceedings",
+            "title": "Towards a Catalog of Refactorings for Elixir",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2023,
+            "booktitle": "39th International Conference on Software Maintenance and Evolution (ICSME)",
+            "conference": "ICSME 2023",
+            "publisher": "IEEE",
+            "address": "Bogotá, Colômbia",
+            "pages": "358--362",
+            "doi": "10.1109/ICSME58846.2023.00045",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents the first specialized catalog of refactoring strategies for Elixir, identifying 54 techniques through a systematic literature review and illustrating each refactoring with code transformation examples.",
+
+            "links": {
+                "pdf": "papers/icsme-23-elixir-refactorings.pdf",
+                "doi": "https://doi.org/10.1109/ICSME58846.2023.00045",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.7999829"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2022-ICPC-smells-elixir",
+            "type": "inproceedings",
+            "title": "Code smells in Elixir: early results from a grey literature review",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2022,
+            "booktitle": "30th International Conference on Program Comprehension (ICPC)",
+            "conference": "ICPC 2022",
+            "publisher": "IEEE/ACM",
+            "address": "Virtual Event",
+            "pages": "580--584",
+            "doi": "10.1145/3524610.3527881",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents the first catalog of code smells for Elixir, identifying 11 traditional code smells and proposing 18 Elixir-specific smells through a grey literature review, while evaluating their support in the Credo static analysis tool.",
+
+            "links": {
+                "pdf": "papers/icpc-22-elixir-smells.pdf",
+                "doi": "https://doi.org/10.1145/3524610.3527881",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.6025010"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2023EMSE-smells-elixir",
             "type": "article",
             "title": "Understanding Code Smells in Elixir Functional Language",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2023,
+            "journal": "Empirical Software Engineering",
+            "volume": "28",
+            "number": "102",
+            "pages": "1--32",
+            "publisher": "Springer",
+            "doi": "10.1007/s10664-023-10343-6",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper introduces the first catalog of Elixir code smells and evaluates their relevance through a survey with professional developers.",
+            "links": {
+                "pdf": "papers/emse-23-elixir-smells.pdf",
+                "doi": "https://doi.org/10.1007/s10664-023-10343-6",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.7430258"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2025EMSE-refactorings-elixir",
+            "type": "article",
+            "title": "Understanding Refactorings in Elixir Functional Language",
             "authors": [
                 "Lucas Vegi",
                 "Marco Túlio Valente"
@@ -39,18 +119,44 @@
             "year": 2025,
             "journal": "Empirical Software Engineering",
             "volume": "30",
-            "number": "2",
-            "pages": "1--28",
+            "number": "108",
+            "pages": "1--58",
             "publisher": "Springer",
-            "doi": "10.xxxx/xxxx",
+            "doi": "10.1007/s10664-025-10652-y",
             "issn": "",
             "url": "",
-            "abstract": "This paper introduces the first catalog of Elixir code smells and evaluates their relevance through a survey with professional developers.",
+            "abstract": "This paper introduces the first catalog of Elixir refactorings and evaluates their relevance through a survey with professional developers.",
             "links": {
-                "pdf": "",
-                "doi": "https://doi.org/10.xxxx/xxxx",
+                "pdf": "papers/emse-25-elixir-refactorings.pdf",
+                "doi": "https://doi.org/10.1007/s10664-025-10652-y",
                 "github": "",
-                "dataset": ""
+                "dataset": "https://doi.org/10.5281/zenodo.11372758"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2026-JSEP-map-smells-refactoring-elixir",
+            "type": "article",
+            "title": "Mind the Gap: Linking Refactorings and Code Smells in Elixir",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2026,
+            "journal": "Journal of Software: Evolution and Process",
+            "volume": "38",
+            "number": "5",
+            "pages": "1--31",
+            "publisher": "Wiley",
+            "doi": "10.1002/smr.70113",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper presents practical guidelines for removing Elixir code smells by establishing 176 relationships between 35 code smells and 70 refactorings cataloged for the language, providing systematic support for code quality improvement.",
+            "links": {
+                "pdf": "papers/jsep-26-elixir-mind-the-gap.pdf",
+                "doi": "https://doi.org/10.1002/smr.70113",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.13835771"
             }
         }
     ]
