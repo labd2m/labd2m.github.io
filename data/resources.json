@@ -150,6 +150,100 @@
                 "documentation": "",
                 "paper": ""
             }
+        },
+
+        {
+            "category": "applications",
+            "title": "ColetApp",
+            "shortName": "ColetApp",
+            "description": "Aplicativo móvel desenvolvido para apoiar a coleta de dados em campo por meio de geolocalização integrada, permitindo o registro organizado das informações, sua visualização de forma resumida e a exportação dos dados em formato CSV.",
+            "image": "img/resources/coletapp.png",
+            "status": "Concluído",
+            "license": "MIT",
+            "language": "Java",
+
+            "authors": [
+                "LABD2M"
+            ],
+
+            "tags": [
+                "Android",
+                "Java",
+                "Coleta de Dados",
+                "Geolocalização",
+                "Pesquisa de Campo",
+                "Aplicativo Móvel"
+            ],
+
+            "links": {
+                "github": "https://github.com/lucasvegi/ColetApp",
+                "website": "",
+                "documentation": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "applications",
+            "title": "UFV Eventos",
+            "shortName": "UFV Eventos",
+            "description": "Aplicativo móvel desenvolvido para facilitar o acesso às informações de eventos acadêmicos realizados na Universidade Federal de Viçosa, permitindo consultar a programação, atividades, palestrantes e outras informações diretamente pelo smartphone.",
+            "image": "img/resources/ufv-eventos.png",
+            "status": "Concluído",
+            "license": "MIT",
+            "language": "Java / Swift",
+            "authors": [
+                "LABD2M"
+            ],
+
+            "tags": [
+                "Android",
+                "iOS",
+                "Java",
+                "Swift",
+                "UFV",
+                "Eventos",
+                "Aplicativo Móvel"
+            ],
+
+            "links": {
+                "github": "https://github.com/lucasvegi/ufveventosandroid",
+                "github-ios": "https://github.com/lucasvegi/ufveventosios",
+                "website": "https://play.google.com/store/apps/details?id=br.ufv.dti.flutter.ufveventos&hl=pt_BR",
+                "documentation": "",
+                "paper": ""
+            }
+        },
+
+        {
+            "category": "applications",
+            "title": "UFV Mobile",
+            "shortName": "UFV Mobile",
+            "description": "Aplicativo móvel oficial da Universidade Federal de Viçosa que reúne serviços acadêmicos e institucionais em uma única plataforma, permitindo o acesso a informações da universidade de forma prática e diretamente pelo smartphone.",
+            "image": "img/resources/ufv-mobile.png",
+            "status": "Concluído",
+            "license": "",
+            "language": "Java",
+
+            "authors": [
+                "LABD2M"
+            ],
+
+            "tags": [
+                "Android",
+                "Java",
+                "UFV",
+                "Universidade",
+                "Serviços Acadêmicos",
+                "Aplicativo Móvel"
+            ],
+
+            "links": {
+                "github": "",
+                "website": "https://play.google.com/store/apps/details?id=br.ufv.m",
+                "documentation": "",
+                "paper": ""
+            }
         }
 
     ]
