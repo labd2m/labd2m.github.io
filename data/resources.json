@@ -4,7 +4,7 @@
         {
             "category": "tools",
             "title": "ExSmellBench",
-            "description": "Framework para avaliação automática de LLMs na detecção de Code Smells em Elixir.",
+            "description": "Framework for benchmarking and automatically evaluating LLMs for Elixir code smell detection.",
             "image": "img/resources/exsmellbench.png",
 
             "links": {
@@ -17,7 +17,7 @@
         {
             "category": "datasets",
             "title": "ExSmell-Gold",
-            "description": "Benchmark contendo 3.500 exemplos anotados para avaliação de detectores de Code Smells em Elixir.",
+            "description": "Benchmark dataset containing 3,500 annotated examples for evaluating Elixir code smell detectors.",
             "image": "img/resources/exsmell-gold.png",
 
             "links": {
@@ -30,7 +30,7 @@
         {
             "category": "datasets",
             "title": "ExSmell-Train",
-            "description": "Corpus com 350 exemplos de smells em Elixir utilizado para estratégias de Retrieval-Augmented Generation (RAG).",
+            "description": "Retrieval corpus containing 350 Elixir code smell examples for Retrieval-Augmented Generation (RAG).",
             "image": "img/resources/exsmell-train.png",
 
             "links": {
@@ -43,7 +43,7 @@
         {
             "category": "resources",
             "title": "Catálogo de Code Smells para Elixir",
-            "description": "Catálogo contendo 35 Code Smells identificados na linguagem Elixir.",
+            "description": "Catalog documenting 35 code smells for the Elixir programming language.",
             "image": "img/resources/smells-catalog-elixir.png",
 
             "links": {
@@ -56,7 +56,7 @@
         {
             "category": "resources",
             "title": "Catálogo de Refatorações para Elixir",
-            "description": "Catálogo contendo 82 estratágias de refatoração para códigos implementados na linguagem Elixir.",
+            "description": "Catalog documenting 82 refactoring strategies for the Elixir programming language.",
             "image": "img/resources/refactoring-catalog-elixir.png",
 
             "links": {
@@ -69,12 +69,13 @@
         {
             "category": "tools",
             "title": "RefactorEx",
-            "description": "Plug-in do VS Code para aplicação semi-automática de estratégias de refatoração em projetos Elixir. Implementa algumas refatorações catalogadas na literatura para melhorar qualidade do código.",
+            "description": "Visual Studio Code extension for applying semi-automated refactoring strategies to Elixir projects, implementing more than 30 refactorings documented in the literature to improve code quality.",
             "image": "img/resources/refactorex.png",
 
             "authors": [
                 "Gabriel Pereira",
-                "Lucas Vegi"
+                "Lucas Vegi",
+                "Vladimir Di Iorio"
             ],
 
             "tags": [
@@ -96,7 +97,7 @@
             "category": "applications",
             "title": "Pokemon Go Clone",
             "shortName": "Pokemon Go Clone",
-            "description": "Clone open source do Pokémon GO desenvolvido para fins de pesquisa e ensino. O projeto implementa mecânicas de jogos baseados em geolocalização, realidade aumentada e coleta de criaturas, permitindo experimentação sem dependência dos servidores oficiais.",
+            "description": "Open-source Pokémon GO clone developed for research and educational purposes. The project implements core mechanics of location-based games, augmented reality, and creature collection, enabling experimentation without relying on official game servers.",
             "image": "img/resources/pokemon-go-clone.png",
             "status": "Concluído",
             "license": "MIT",
@@ -126,7 +127,7 @@
             "category": "applications",
             "title": "Presente UFV",
             "shortName": "Presente UFV",
-            "description": "Aplicativo móvel desenvolvido para apoiar o registro de presença em atividades acadêmicas da Universidade Federal de Viçosa por meio de geolocalização, Bluetooh, QR Code e outros meios, oferecendo uma alternativa prática às listas de presença em papel.",
+            "description": "Mobile application developed to support attendance tracking for academic activities at the Federal University of Viçosa (UFV) through geolocation, Bluetooth, QR codes, and other technologies, offering a practical digital alternative to traditional paper attendance sheets.",
             "image": "img/resources/presente-ufv.png",
             "status": "Concluído",
             "license": "MIT",
@@ -156,7 +157,7 @@
             "category": "applications",
             "title": "ColetApp",
             "shortName": "ColetApp",
-            "description": "Aplicativo móvel desenvolvido para apoiar a coleta de dados em campo por meio de geolocalização integrada, permitindo o registro organizado das informações, sua visualização de forma resumida e a exportação dos dados em formato CSV.",
+            "description": "Mobile application developed to support field data collection through integrated geolocation, enabling structured data recording, summarized data visualization, and CSV data export.",
             "image": "img/resources/coletapp.png",
             "status": "Concluído",
             "license": "MIT",
@@ -187,7 +188,7 @@
             "category": "applications",
             "title": "UFV Eventos",
             "shortName": "UFV Eventos",
-            "description": "Aplicativo móvel desenvolvido para facilitar o acesso às informações de eventos acadêmicos realizados na Universidade Federal de Viçosa, permitindo consultar a programação, atividades, palestrantes e outras informações diretamente pelo smartphone.",
+            "description": "Mobile application developed to facilitate access to information about academic events held at the Federal University of Viçosa (UFV), allowing users to browse schedules, sessions, speakers, and other event information directly from their smartphones.",
             "image": "img/resources/ufv-eventos.png",
             "status": "Concluído",
             "license": "MIT",
@@ -219,7 +220,7 @@
             "category": "applications",
             "title": "UFV Mobile",
             "shortName": "UFV Mobile",
-            "description": "Aplicativo móvel oficial da Universidade Federal de Viçosa que reúne serviços acadêmicos e institucionais em uma única plataforma, permitindo o acesso a informações da universidade de forma prática e diretamente pelo smartphone.",
+            "description": "Official mobile application of the Federal University of Viçosa (UFV) that brings together academic and institutional services in a single platform, providing convenient access to university information directly from a smartphone.",
             "image": "img/resources/ufv-mobile.png",
             "status": "Concluído",
             "license": "",

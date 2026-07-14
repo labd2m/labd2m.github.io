@@ -2,10 +2,10 @@ const categories = {
 
     tools: {
 
-        title: "Ferramentas",
+        title: "Tools",
 
         description:
-            "Softwares desenvolvidos pelo LABD2M para apoiar pesquisa e desenvolvimento em Engenharia de Software."
+            "Software tools developed by LABD2M to support Software Engineering research and development."
 
     },
 
@@ -14,7 +14,7 @@ const categories = {
         title: "Datasets",
 
         description:
-            "Conjuntos de dados disponibilizados para experimentos e reprodutibilidade."
+            "Datasets released to support experiments and research reproducibility."
 
     },
 
@@ -23,34 +23,34 @@ const categories = {
         title: "Benchmarks",
 
         description:
-            "Ambientes e coleções para avaliação experimental."
+            "Benchmarks and experimental environments for empirical evaluation."
 
     },
 
     replication: {
 
-        title: "Pacotes de Replicação",
+        title: "Replication Packages",
 
         description:
-            "Artefatos científicos publicados juntamente com artigos."
+            "Research artifacts published alongside scientific papers."
 
     },
 
     resources: {
 
-        title: "Recursos",
+        title: "Resources",
 
         description:
-            "Catálogos, documentos e materiais produzidos pelo laboratório."
+            "Catalogs, documentation, and other materials produced by the laboratory."
 
     },
 
     applications: {
 
-        title: "Aplicações",
+        title: "Applications",
 
         description:
-            "Aplicações desenvolvidas pelo LABD2M para pesquisa, ensino e demonstração tecnológica."
+            "Applications developed by LABD2M to support research, education, and technology demonstration."
 
     }
 
