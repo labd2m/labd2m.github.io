@@ -56,6 +56,272 @@
         },
 
         {
+            "citationKey": "Vegi2025-ctd-es",
+            "type": "inproceedings",
+            "title": "Code Smells and Refactorings for Elixir",
+            "authors": [
+                "Lucas Vegi",
+                "Marco Túlio Valente"
+            ],
+            "year": 2025,
+            "booktitle": "Concurso de Teses e Dissertações em Engenharia de Software (Doutorado) - Congresso Brasileiro de Software: Teoria e Prática (CBSoft) - 1st place!",
+            "conference": "CBSoft 2025",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "Recife, Brazil",
+            "pages": "20--34",
+            "doi": "10.5753/cbsoft_estendido.2025.11411",
+            "isbn": "",
+            "url": "",
+            "abstract": "This thesis presents an empirical investigation of Elixir-specific code smells and refactorings, cataloging 35 code smells and 82 refactorings and establishing practical guidelines for disciplined smell removal.",
+
+            "links": {
+                "pdf": "papers/ctd-es-25-vegi-elixir-smells-refactorings.pdf",
+                "doi": "https://doi.org/10.5753/cbsoft_estendido.2025.11411",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2022-vem-democracia-em-xeque",
+            "type": "inproceedings",
+            "title": "Democracia em Xeque: Um Estudo Comparativo sobre Detecção de Code Smells",
+            "authors": [
+                "Henrique Gomes Nunes",
+                "Lucas Vegi",
+                "Victor Pezzi Gazzinelli Cruz",
+                "Eduardo Figueiredo"
+            ],
+            "year": 2022,
+            "booktitle": "10th Workshop on Software Visualization, Maintenance and Evolution (VEM)",
+            "conference": "VEM 2022",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "Virtual Event",
+            "pages": "11--15",
+            "doi": "10.5753/vem.2022.226562",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents a quantitative evaluation of three automated code smell detection tools and a voting-based approach, comparing their results against an expert-defined oracle for the God Class smell.",
+
+            "links": {
+                "pdf": "papers/vem-22-democracia-em-xeque.pdf",
+                "doi": "https://doi.org/10.5753/vem.2022.226562",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2019-seestem",
+            "type": "inproceedings",
+            "title": "SEEstem Wearable navigation device for people with visual impairments",
+            "authors": [
+                "Paula Iunes Salles Esteves", 
+                "Andressa Carmo Pena Martinez", 
+                "Lucas Vegi", 
+                "Igor Rodrigues Cardoso", 
+                "Mauro Nacif Rocha", 
+                "Ricardo dos Santos Ferreira", 
+                "Denise Mônaco dos Santos"
+            ],
+            "year": 2019,
+            "booktitle": "37th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) and 23rd Iberoamerican Society of Digital Graphics (SIGraDi)",
+            "conference": "eCAADe + SIGraDi 2019",
+            "publisher": "Faculty of Architecture, University Porto (FAUP)",
+            "address": "Porto, Portugal",
+            "pages": "681--690",
+            "doi": "10.5151/proceedings-ecaadesigradi2019_438",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents a wearable assistive device that integrates smartphone technologies and Arduino microcontrollers to support orientation and obstacle detection, aiming to improve the urban mobility and independence of visually impaired people.",
+
+            "links": {
+                "pdf": "papers/ecaadesigradi2019_seestem.pdf",
+                "doi": "http://doi.org/10.5151/proceedings-ecaadesigradi2019_438",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2018-clei-mobile-elderly-framework",
+            "type": "inproceedings",
+            "title": "Development of a Framework to Improve the use of Mobile Devices by the Elderly",
+            "authors": [
+                "Dâmaris Pires Arruda", 
+                "Marcus Vinícius Alvim Andrade", 
+                "Mauro Rocha Nacif", 
+                "Lucas Vegi", 
+                "Fábio Chaves Fehlberg"
+            ],
+            "year": 2018,
+            "booktitle": "44th Latin American Computer Conference (CLEI)",
+            "conference": "CLEI 2018",
+            "publisher": "IEEE",
+            "address": "São Paulo, Brazil",
+            "pages": "334--343",
+            "doi": "10.1109/CLEI.2018.0004",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents a framework that helps developers create mobile application interfaces tailored to the needs of older adults, based on strategies derived from a user study.",
+
+            "links": {
+                "pdf": "papers/CLEI_2018_framework_mobile_elder.pdf",
+                "doi": "https://doi.org/10.1109/CLEI.2018.00048",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2017-CISTI-clickonmap",
+            "type": "inproceedings",
+            "title": "ClickOnMap: A platform for development of Volunteered Geographic Information systems",
+            "authors": [
+                "Jean H. S. Câmara", 
+                "Lucas Vegi", 
+                "Rafael O. Pereira", 
+                "Zoard A. Geöcze", 
+                "Jugurta Lisboa Filho",
+                "Wagner Dias de Souza"
+            ],
+            "year": 2017,
+            "booktitle": "12th Iberian Conference on Information Systems and Technologies (CISTI)",
+            "conference": "CISTI 2017",
+            "publisher": "IEEE",
+            "address": "Lisboa, Portugal",
+            "pages": "1--6",
+            "doi": "10.23919/CISTI.2017.7975776",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents ClickOnMap, a platform for rapidly developing Volunteered Geographic Information (VGI) systems with support for data quality and real-time mobile collaboration.",
+
+            "links": {
+                "pdf": "papers/CISTI_2017_clidkonmap.pdf",
+                "doi": "https://doi.org/10.23919/CISTI.2017.7975776",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2012-SEKE-dc2ap",
+            "type": "inproceedings",
+            "title": "DC2AP: A Dublin Core Application Profile to Analysis Patterns",
+            "authors": [
+                "Lucas Vegi", 
+                "Jugurta Lisboa Filho", 
+                "Glauber Luis da Silva Costa", 
+                "Alcione de Paiva Oliveira",
+                "José Luís Braga"
+            ],
+            "year": 2012,
+            "booktitle": "24th International Conference on Software Engineering & Knowledge Engineering (SEKE)",
+            "conference": "SEKE 2012",
+            "publisher": "ACM",
+            "address": "Redwood City, USA",
+            "pages": "511--516",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents DC2AP, a metadata profile for documenting analysis patterns that supports their cataloguing and reuse through the Analysis Patterns Reuse Infrastructure (APRI).",
+
+            "links": {
+                "pdf": "papers/DC2AP_A_Dublin_Core_Application_Profile.pdf",
+                "doi": "",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2012-DCMI-dc2ap",
+            "type": "inproceedings",
+            "title": "A machine-processable dublin core application profile for analysis patterns to provide linked data",
+            "authors": [
+                "Lucas Vegi", 
+                "Jugurta Lisboa Filho", 
+                "Joep Crompvoets"
+            ],
+            "year": 2012,
+            "booktitle": "2012 International Conference on Dublin Core and Metadata Applications (DC)",
+            "conference": "DC 2012",
+            "publisher": "Dublin Core Metadata Initiative",
+            "address": "Kuching, Sarawak, Malaysia",
+            "pages": "23--32",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents DC2AP, a metadata profile for documenting analysis patterns as RDF-based Linked Data, supporting their cataloguing, discovery, and reuse through the Analysis Patterns Reuse Infrastructure (APRI).",
+
+            "links": {
+                "pdf": "papers/dcmi-2012-dc2ap.pdf",
+                "doi": "",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2012-BPM-apri",
+            "type": "inproceedings",
+            "title": "An Infrastructure Oriented for Cataloging Services and Reuse of Analysis Patterns",
+            "authors": [
+                "Lucas Vegi", 
+                "Douglas Alves Peixoto", 
+                "Liziane Santos Soares",
+                "Jugurta Lisboa Filho",
+                "Alcione de Paiva Oliveira"
+            ],
+            "year": 2012,
+            "booktitle": "International Workshop on Reuse in Business Process Management (rBPM)",
+            "conference": "rBPM 2011",
+            "publisher": "Springer",
+            "address": "Clermont-Ferrand, France",
+            "pages": "1--6",
+            "doi": "10.1007/978-3-642-28115-0_32",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents the Analysis Patterns Reuse Infrastructure (APRI), which combines web services and a metadata representation to support the cataloguing and reuse of analysis patterns.",
+
+            "links": {
+                "pdf": "papers/rBPM2011_APRI.pdf",
+                "doi": "https://doi.org/10.1007/978-3-642-28115-0_32",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2017-geoinfo-clickonmap-mobile",
+            "type": "inproceedings",
+            "title": "ClickOnMap Mobile: Aplicativo Móvel de Coleta de Informações em Tempo Real para Múltiplos Sistemas de VGI",
+            "authors": [
+                "Zoárd A. Geöcze",
+                "Lucas Vegi",
+                "Rafael O. Pereira",
+                "Jugurta Lisboa-Filho"
+            ],
+            "year": 2017,
+            "booktitle": "18th Brazilian Symposium on Geoinformatics (GeoInfo)",
+            "conference": "(GeoInfo 2017)",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "Salvador, Brazil",
+            "pages": "1--3",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents ClickOnMap Mobile, a mobile application for collecting and visualizing Volunteered Geographic Information (VGI) in real time through integration with ClickOnMap-based systems.",
+
+            "links": {
+                "pdf": "papers/geoinfo-2027-clickonmap_mobile-demo.pdf",
+                "doi": "",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
             "citationKey": "Vegi2022-ICPC-smells-elixir",
             "type": "inproceedings",
             "title": "Code smells in Elixir: early results from a grey literature review",
@@ -157,6 +423,62 @@
                 "doi": "https://doi.org/10.1002/smr.70113",
                 "github": "",
                 "dataset": "https://doi.org/10.5281/zenodo.13835771"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2013-IJMSO-dc2ap",
+            "type": "article",
+            "title": "A Dublin core application profile for documenting analysis patterns in a reuse infrastructure",
+            "authors": [
+                "Lucas Vegi",
+                "Jugurta Lisboa Filho",
+                "Joep Crompvoets", 
+                "Liziane Santos Soares",
+                "José Luís Braga"
+            ],
+            "year": 2013,
+            "journal": "International Journal of Metadata, Semantics and Ontologies",
+            "volume": "8",
+            "number": "4",
+            "pages": "267--281",
+            "publisher": "Inderscience",
+            "doi": "10.1504/IJMSO.2013.058403",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper presents DC2AP, a metadata profile designed to document analysis patterns in a machine-processable format, facilitating their cataloguing and reuse through linked data.",
+            "links": {
+                "pdf": "papers/IJMSO80401_Vegi_13.pdf",
+                "doi": "https://doi.org/10.1504/IJMSO.2013.058403",
+                "github": "",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2014-isys-dc2ap-editor",
+            "type": "article",
+            "title": "Um Editor de Metadados para Documentar Padrões de Análise em uma Infraestrutura de Reuso",
+            "authors": [
+                "Douglas Alves Peixoto",
+                "Lucas Vegi",
+                "Jugurta Lisboa Filho"
+            ],
+            "year": 2014,
+            "journal": "iSys - Journal of Information Systems",
+            "volume": "7",
+            "number": "4",
+            "pages": "23--42",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "doi": "10.5753/isys.2014.266",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper presents the DC2AP Metadata Editor, a metadata editor for documenting analysis patterns according to the DC2AP model and publishing them as linked data to facilitate their retrieval and reuse.",
+            "links": {
+                "pdf": "papers/isys-2014-dc2ap-metadata-editor.pdf",
+                "doi": "https://doi.org/10.5753/isys.2014.266",
+                "github": "",
+                "dataset": "https://journals-sol.sbc.org.br/index.php/isys/article/view/266/252"
             }
         }
     ]
