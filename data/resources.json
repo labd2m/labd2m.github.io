@@ -42,7 +42,7 @@
 
         {
             "category": "resources",
-            "title": "Catálogo de Code Smells para Elixir",
+            "title": "Catalog of Code Smells for Elixir",
             "description": "Catalog documenting 35 code smells for the Elixir programming language.",
             "image": "img/resources/smells-catalog-elixir.png",
 
@@ -55,7 +55,7 @@
 
         {
             "category": "resources",
-            "title": "Catálogo de Refatorações para Elixir",
+            "title": "Catalog of Refactorings for Elixir",
             "description": "Catalog documenting 82 refactoring strategies for the Elixir programming language.",
             "image": "img/resources/refactoring-catalog-elixir.png",
 
