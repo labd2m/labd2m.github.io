@@ -129,10 +129,28 @@ nav {
     cursor: pointer;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
 .logo img {
     width: 180px;
     height: auto;
 }
+
+.logo-text {
+    color: white;
+    font-size: 1.0rem;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+/*.logo img {
+    width: 180px;
+    height: auto;
+}*/
 
 ul {
     display: flex;
