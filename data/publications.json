@@ -1,6 +1,33 @@
 {
     "publications": [
         {
+            "citationKey": "Vegi2026-LLM-Elixir-smells",
+            "type": "inproceedings",
+            "title": "Towards LLM-Based Detection of Elixir Code Smells: An Empirical Evaluation",
+            "authors": [
+                "Mateus José Dias",
+                "Lucas Vegi"
+            ],
+            "year": 2026,
+            "booktitle": "2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--6",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents insights gained from evaluating Large Language Models for code smell detection in the Elixir programming language.",
+
+            "links": {
+                "pdf": "",
+                "doi": "",
+                "github": "https://github.com/labd2m/ExSmell-Gold",
+                "dataset": ""
+            }
+        },
+        
+        {
             "citationKey": "Vegi2025-RefactorEx",
             "type": "inproceedings",
             "title": "Building Refactoring Tools: Insights from RefactorEx",
