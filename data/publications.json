@@ -17,13 +17,127 @@
             "doi": "",
             "isbn": "",
             "url": "",
-            "abstract": "This paper presents insights gained from evaluating Large Language Models for code smell detection in the Elixir programming language.",
+            "abstract": "This paper presents the first empirical evaluation of Large Language Models (LLMs) for Elixir code smell detection, introducing benchmark datasets and an experimental framework for assessing prompting and Retrieval-Augmented Generation (RAG) strategies.",
 
             "links": {
                 "pdf": "",
                 "doi": "",
                 "github": "https://github.com/labd2m/ExSmell-Gold",
                 "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2026-Clojure-smells",
+            "type": "inproceedings",
+            "title": "Code Smells in Functional Programming: Initial Findings from a Grey Literature Review on Clojure",
+            "authors": [
+                "Walber Araújo",
+                "José Neto",
+                "Lucas Vegi",
+                "Marco Túlio Valente",
+                "João Brunet"
+            ],
+            "year": 2026,
+            "booktitle": "2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--6",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents preliminary results of a grey literature investigation on code smells in Clojure, introducing an initial catalog of 26 code smells and assessing the current tool support for their detection.",
+
+            "links": {
+                "pdf": "",
+                "doi": "",
+                "github": "https://github.com/nufuturo-ufcg/clj-smells-catalog",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2026-Detecting-code-smells-elixir",
+            "type": "inproceedings",
+            "title": "Detecting Code Smells in Elixir Using Metrics and Predicates for Functional Programming",
+            "authors": [
+                "Erick Soares de Souza",
+                "João Marcelo Freitas de Almeida",
+                "Marco Túlio Valente",
+                "Mateus José Dias",
+                "Lucas Vegi"
+            ],
+            "year": 2026,
+            "booktitle": "2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--6",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents metrics and predicates for the automatic detection of low-level code smells in Elixir, proposing detection strategies for 8 of the 9 Low-Level Concerns and validating them using the ExSmell-Train dataset.",
+
+            "links": {
+                "pdf": "",
+                "doi": "",
+                "github": "https://anonymous.4open.science/r/low-level-concerns-0148",
+                "dataset": ""
+            }
+        },
+
+        {
+            "citationKey": "Vegi2026-From-JavaScript-to-Elixir",
+            "type": "inproceedings",
+            "title": "From JavaScript to Elixir: Lessons from Reimplementing an Industrial Home Care System",
+            "authors": [
+                "Ricardo Ferreira",
+                "Lucas Vegi"
+            ],
+            "year": 2026,
+            "booktitle": "2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--4",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents a case study on the reimplementation of an industrial home care system from JavaScript to Elixir, highlighting the challenges and lessons learned in the process.",
+
+            "links": {
+                "pdf": "",
+                "doi": "",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.21248993"
+            }
+        },
+
+        {
+            "citationKey": "Vegi2026-Mobile-Technology-Migration",
+            "type": "inproceedings",
+            "title": "Towards Evidence-Based Mobile Technology Migration: Evaluating Native and Cross-Platform Solutions in a Case Study",
+            "authors": [
+                "Mateus Oliveira",
+                "Lucas Vegi"
+            ],
+            "year": 2026,
+            "booktitle": "2nd Workshop on Software Engineering for Functional Programming (SE4FP)",
+            "conference": "SE4FP 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--4",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents an empirical comparison between React Native and native mobile development through a full migration of an industrial application, providing quantitative evidence on the trade-offs in performance, resource consumption, build time, and application size.",
+
+            "links": {
+                "pdf": "",
+                "doi": "",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.21280765"
             }
         },
         
