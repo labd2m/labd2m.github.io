@@ -20,7 +20,7 @@
             "abstract": "This paper presents the first empirical evaluation of Large Language Models (LLMs) for Elixir code smell detection, introducing benchmark datasets and an experimental framework for assessing prompting and Retrieval-Augmented Generation (RAG) strategies.",
 
             "links": {
-                "pdf": "",
+                "pdf": "papers/se4fp26_LLM_elixir_smells.pdf",
                 "doi": "",
                 "github": "https://github.com/labd2m/ExSmell-Gold",
                 "dataset": ""
@@ -50,7 +50,7 @@
             "abstract": "This paper presents preliminary results of a grey literature investigation on code smells in Clojure, introducing an initial catalog of 26 code smells and assessing the current tool support for their detection.",
 
             "links": {
-                "pdf": "",
+                "pdf": "papers/se4fp26_clojure_smells.pdf",
                 "doi": "",
                 "github": "https://github.com/nufuturo-ufcg/clj-smells-catalog",
                 "dataset": ""
@@ -80,7 +80,7 @@
             "abstract": "This paper presents metrics and predicates for the automatic detection of low-level code smells in Elixir, proposing detection strategies for 8 of the 9 Low-Level Concerns and validating them using the ExSmell-Train dataset.",
 
             "links": {
-                "pdf": "",
+                "pdf": "papers/se4fp26_detect_elixir_smells_metrics.pdf",
                 "doi": "",
                 "github": "https://anonymous.4open.science/r/low-level-concerns-0148",
                 "dataset": ""
@@ -107,7 +107,7 @@
             "abstract": "This paper presents a case study on the reimplementation of an industrial home care system from JavaScript to Elixir, highlighting the challenges and lessons learned in the process.",
 
             "links": {
-                "pdf": "",
+                "pdf": "papers/se4fp26_js_to_elixir.pdf",
                 "doi": "",
                 "github": "",
                 "dataset": "https://doi.org/10.5281/zenodo.21248993"
@@ -134,7 +134,7 @@
             "abstract": "This paper presents an empirical comparison between React Native and native mobile development through a full migration of an industrial application, providing quantitative evidence on the trade-offs in performance, resource consumption, build time, and application size.",
 
             "links": {
-                "pdf": "",
+                "pdf": "papers/se4fp26_mobile_migration.pdf",
                 "doi": "",
                 "github": "",
                 "dataset": "https://doi.org/10.5281/zenodo.21280765"
