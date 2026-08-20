@@ -117,6 +117,10 @@ async function loadPublications() {
                 links += `<a href="${publication.links.dataset}" target="_blank">Replication Package</a>`;
             }
 
+            if (publication.links?.podcast) {
+                links += `<a href="${publication.links.podcast}" target="_blank">Podcast</a>`;
+            }
+
             links += `<a href="#" class="bibtex-button">BibTeX</a>`;
 
             card.innerHTML = `
