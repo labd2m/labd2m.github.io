@@ -27,6 +27,34 @@
                 "podcast": ""
             }
         },
+        {
+            "citationKey": "VEM2026-subreddit-web-interface",
+            "type": "inproceedings",
+            "title": "Subreddit Temporal Network: An Interactive Web Interface",
+            "authors": [
+                "Gabriel Mota",
+                "Sabrina Silveira",
+                "Julio Cesar dos Reis"
+            ],
+            "year": 2026,
+            "booktitle": "14th Workshop on Software Visualization, Evolution, and Maintenance (VEM)",
+            "conference": "VEM 2026",
+            "publisher": "Sociedade Brasileira de Computação (SBC)",
+            "address": "São Paulo, Brazil",
+            "pages": "1--7",
+            "doi": "",
+            "isbn": "",
+            "url": "",
+            "abstract": "This paper presents an interactive web interface for exploring Reddit as a temporal network of subreddits and communities, enabling researchers and community analysts to identify how communities grow, fragment, and shift their structural core over time.",
+
+            "links": {
+                "pdf": "papers/subreddit_web_interface_vem26.pdf",
+                "doi": "",
+                "github": "https://github.com/gfmota/subreddit-community-analysis",
+                "dataset": "",
+                "podcast": ""
+            }
+        },
 
         {
             "citationKey": "Vegi2026-Clojure-smells",
