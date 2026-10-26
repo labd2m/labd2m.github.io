@@ -40,14 +40,14 @@
             "publisher": "Sociedade Brasileira de Computação (SBC)",
             "address": "São Paulo, Brazil",
             "pages": "1--6",
-            "doi": "https://doi.org/10.5753/se4fp.2026.32884",
+            "doi": "",
             "isbn": "",
             "url": "",
             "abstract": "This paper presents the first empirical evaluation of Large Language Models (LLMs) for Elixir code smell detection, introducing benchmark datasets and an experimental framework for assessing prompting and Retrieval-Augmented Generation (RAG) strategies.",
 
             "links": {
                 "pdf": "papers/se4fp26_LLM_elixir_smells.pdf",
-                "doi": "",
+                "doi": "https://doi.org/10.5753/se4fp.2026.32884",
                 "github": "https://github.com/labd2m/ExSmell-Gold",
                 "dataset": "",
                 "podcast": ""
