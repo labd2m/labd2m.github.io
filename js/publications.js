@@ -2,7 +2,7 @@ function generateBibtex(pub) {
 
     const authors = pub.authors.join(" and ");
 
-    let bib = `@${pub.type}{${pub.citationKey},`;
+    let bib = `@${pub.type}{${pub.citationKey},\n`;
 
     bib += `  author = {${authors}},\n`;
 
@@ -11,6 +11,12 @@ function generateBibtex(pub) {
     if (pub.type === "article") {
 
         bib += `  journal = {${pub.journal}},\n`;
+
+        if (pub.volume)
+            bib += `  volume = {${pub.volume}},\n`;
+
+        if (pub.number)
+            bib += `  number = {${pub.number}},\n`;
 
     } else {
 
