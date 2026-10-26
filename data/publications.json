@@ -1,6 +1,32 @@
 {
     "publications": [
         {
+            "citationKey": "DiasAndVegi2026-JSERD-slr-llms-detect-smells",
+            "type": "article",
+            "title": "LLMs on code smell detection and refactoring: a systematic literature review (accepted for publication)",
+            "authors": [
+                "Mateus José Dias",
+                "Lucas Vegi"
+            ],
+            "year": 2026,
+            "journal": "Journal of Software Engineering Research and Development",
+            "volume": "1",
+            "number": "1",
+            "pages": "1--27",
+            "publisher": "SBC",
+            "doi": "",
+            "issn": "",
+            "url": "",
+            "abstract": "This paper presents a systematic literature review of 65 studies on the use of frozen-parameter Large Language Models (LLMs) for code smell detection and refactoring, synthesizing current approaches, evaluation practices, and techniques such as Retrieval-Augmented Generation (RAG), validation layers, and iterative workflows to improve reliability and support human-supervised software maintenance.",
+            "links": {
+                "pdf": "papers/JSERD26_LLMs_on_code_smell_detection_and_refactoring_slr.pdf",
+                "doi": "",
+                "github": "",
+                "dataset": "https://doi.org/10.5281/zenodo.19368366",
+                "podcast": ""
+            }
+        },
+        {
             "citationKey": "Vegi2026-LLM-Elixir-smells",
             "type": "inproceedings",
             "title": "Towards LLM-Based Detection of Elixir Code Smells: An Empirical Evaluation",
@@ -14,7 +40,7 @@
             "publisher": "Sociedade Brasileira de Computação (SBC)",
             "address": "São Paulo, Brazil",
             "pages": "1--6",
-            "doi": "",
+            "doi": "https://doi.org/10.5753/se4fp.2026.32884",
             "isbn": "",
             "url": "",
             "abstract": "This paper presents the first empirical evaluation of Large Language Models (LLMs) for Elixir code smell detection, introducing benchmark datasets and an experimental framework for assessing prompting and Retrieval-Augmented Generation (RAG) strategies.",
@@ -80,7 +106,7 @@
 
             "links": {
                 "pdf": "papers/se4fp26_clojure_smells.pdf",
-                "doi": "",
+                "doi": "https://doi.org/10.5753/se4fp.2026.32267",
                 "github": "https://github.com/nufuturo-ufcg/clj-smells-catalog",
                 "dataset": "",
                 "podcast": ""
@@ -111,7 +137,7 @@
 
             "links": {
                 "pdf": "papers/se4fp26_detect_elixir_smells_metrics.pdf",
-                "doi": "",
+                "doi": "https://doi.org/10.5753/se4fp.2026.32912",
                 "github": "https://anonymous.4open.science/r/low-level-concerns-0148",
                 "dataset": "",
                 "podcast": ""
@@ -139,7 +165,7 @@
 
             "links": {
                 "pdf": "papers/se4fp26_js_to_elixir.pdf",
-                "doi": "",
+                "doi": "https://doi.org/10.5753/se4fp.2026.32631",
                 "github": "",
                 "dataset": "https://doi.org/10.5281/zenodo.21248993",
                 "podcast": ""
@@ -167,7 +193,7 @@
 
             "links": {
                 "pdf": "papers/se4fp26_mobile_migration.pdf",
-                "doi": "",
+                "doi": "https://doi.org/10.5753/se4fp.2026.32634",
                 "github": "",
                 "dataset": "https://doi.org/10.5281/zenodo.21280765",
                 "podcast": ""
