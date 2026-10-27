@@ -3,7 +3,7 @@
         {
             "citationKey": "DiasAndVegi2026-JSERD-slr-llms-detect-smells",
             "type": "article",
-            "title": "LLMs on code smell detection and refactoring: a systematic literature review (accepted for publication)",
+            "title": "LLMs on code smell detection and refactoring: A systematic literature review",
             "authors": [
                 "Mateus José Dias",
                 "Lucas Vegi"
@@ -17,7 +17,7 @@
             "doi": "",
             "issn": "",
             "url": "",
-            "abstract": "This paper presents a systematic literature review of 65 studies on the use of frozen-parameter Large Language Models (LLMs) for code smell detection and refactoring, synthesizing current approaches, evaluation practices, and techniques such as Retrieval-Augmented Generation (RAG), validation layers, and iterative workflows to improve reliability and support human-supervised software maintenance.",
+            "abstract": "This paper presents a systematic literature review of 65 studies on the use of frozen-parameter Large Language Models (LLMs) for code smell detection and refactoring. The findings show that approaches combining LLMs with contextual information, validation mechanisms, and iterative workflows tend to be more reliable than standalone prompting. The review also highlights the importance of transparency and developer control, providing directions for future research and the development of more reliable, human-supervised software maintenance tools.",
             "links": {
                 "pdf": "papers/JSERD26_LLMs_on_code_smell_detection_and_refactoring_slr.pdf",
                 "doi": "",
